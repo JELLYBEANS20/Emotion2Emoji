@@ -1,0 +1,58 @@
+body
+{
+  color: white;
+  background: #d959dd;
+  
+    font-family: 'Tangerine', serif;
+    font-size: 100px;
+    text-shadow: 4px 4px 4px #aaa;
+  
+}
+
+button
+{
+  font-size:100px;
+}
+
+p
+{
+  
+  font-size: 100px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', serif;
+}
+span
+{
+  font-size: 40px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color:darkgoldenrod ;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 28px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label
+{
+    font-size: 34px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
